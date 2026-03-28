@@ -7,7 +7,6 @@ Incarnez la nouvelle recrue de MarketOne, un géant de la grande distribution en
 
 <video src="Retail%20Data%20Saga%20-%20Ecran%20de%20chargement.mp4" autoplay loop muted playsinline width="400"></video>
 
-
 ### Outils utilisés :
 
 **Pour le jeu :**
