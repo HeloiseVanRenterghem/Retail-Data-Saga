@@ -9,6 +9,8 @@ Intrigué ? Découvrez la bande-annonce **[ici](Retail%20Data%20Saga%20-%20Trail
 
 ### Comment jouer ? :
 
+[🎮 Jouer à Retail Data Saga](https://heloisevanrenterghem.github.io/Retail-Data-Saga/Retail%20Data%20Saga%20-%20Acte%201.html)
+
 ### Genèse du projet :
 
 J'ai toujours aimé apprendre en créant. La technique est fascinante, mais il est encore plus stimulant de l'utiliser pour concevoir un projet inédit. J'ai voulu sortir du cadre classique de l'analyse de données pour inventer un jeu à la fois ludique et éducatif.
