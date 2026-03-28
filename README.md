@@ -5,7 +5,7 @@
 Plongez dans un "Livre dont vous êtes le héros" nouvelle génération !
 Incarnez la nouvelle recrue de MarketOne, un géant de la grande distribution en pleine mutation. Pour progresser dans ce thriller d'entreprise, vous devrez résoudre de véritables défis data. Serez-vous un cost-killer cynique ou le sauveur d'un commerce humain ?
 
-Intrigué ? Découvrez la bande-annonce **[<ici>](<https://github.com/HeloiseVanRenterghem/Retail-Data-Saga/raw/main/Retail%20Data%20Saga%20-%20Trailer.mp4>)**.
+Intrigué ? Découvrez la bande-annonce **[ici](Retail%20Data%20Saga%20-%20Trailer.mp4)**.
 
 ### Outils utilisés :
 
