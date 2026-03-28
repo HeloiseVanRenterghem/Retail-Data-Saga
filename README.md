@@ -2,8 +2,7 @@
 
 ### Concept :
 
-<video src="Retail%20Data%20Saga%20Trailer.mp4" width="300" controls></video>
-
+<video src="https://github.com/HeloiseVanRenterghem/Retail-Data-Saga/raw/main/Retail%20Data%20Saga%20Trailer.mp4" width="300" controls></video>
 
 ### Outils utilisés :
 
