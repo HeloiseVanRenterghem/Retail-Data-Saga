@@ -7,6 +7,8 @@ Incarnez la nouvelle recrue de MarketOne, un géant de la grande distribution en
 
 Intrigué ? Découvrez la bande-annonce **[ici](Retail%20Data%20Saga%20-%20Trailer.mp4)**.
 
+### Comment jouer ? :
+
 ### Genèse du projet :
 
 J'ai toujours aimé apprendre en créant. La technique est fascinante, mais il est encore plus stimulant de l'utiliser pour concevoir un projet inédit. J'ai voulu sortir du cadre classique de l'analyse de données pour inventer un jeu à la fois ludique et éducatif.
