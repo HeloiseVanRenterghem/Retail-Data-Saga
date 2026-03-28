@@ -1,8 +1,8 @@
 # RETAIL DATA SAGA
 
 ### Concept :
+<video src="https://github.com/HeloiseVanRenterghem/Retail-Data-Saga/blob/main/Retail%20Data%20Saga%20Trailer.mp4" width="300" />
 
-![image](https://user-images.githubusercontent.com/108370292/185907453-d6d0d489-655f-4feb-8c8b-f7e7b87c62c1.png)
 
 ### Outils utilisés :
 
