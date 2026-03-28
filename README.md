@@ -7,7 +7,7 @@ Incarnez la nouvelle recrue de MarketOne, un géant de la grande distribution en
 
 
 
-<video src="https://github.com/user-attachments/assets/05941a4f-f717-4a0a-bba0-c63f28939e63" autoplay loop muted playsinline width="400"></video>
+<video src="https://github.com/user-attachments/assets/05941a4f-f717-4a0a-bba0-c63f28939e63" autoplay loop playsinline width="400"></video>
 
 
 ### Outils utilisés :
