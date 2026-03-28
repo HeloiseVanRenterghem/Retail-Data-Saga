@@ -8,6 +8,9 @@ Incarnez la nouvelle recrue de MarketOne, un géant de la grande distribution en
 Intrigué ? Découvrez la bande-annonce **[ici](Retail%20Data%20Saga%20-%20Trailer.mp4)**.
 
 [🎮 Jouer à Retail Data Saga](https://heloisevanrenterghem.github.io/Retail-Data-Saga/Retail%20Data%20Saga%20-%20Acte%201.html)
+> [Commencer à l'acte 2](https://heloisevanrenterghem.github.io/Retail-Data-Saga/Retail%20Data%20Saga%20-%20Acte%202.html)
+> [Commencer à l'acte 3](https://heloisevanrenterghem.github.io/Retail-Data-Saga/Retail%20Data%20Saga%20-%20Acte%203.html)
+> [Commencer à l'acte 4](https://heloisevanrenterghem.github.io/Retail-Data-Saga/Retail%20Data%20Saga%20-%20Acte%204.html)
 
 ### Genèse du projet :
 
