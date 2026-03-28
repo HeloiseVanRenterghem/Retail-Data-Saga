@@ -25,7 +25,7 @@ Si les défis techniques sont très concrets, j'ai pris beaucoup de libertés su
 
 **Comment j'ai procédé :**
 + 🗺️ **L'architecture narrative :** J'ai d'abord pensé le jeu dans sa globalité. J'ai structuré le scénario scène par scène, défini la psychologie des personnages et tracé les embranchements menant aux différentes fins possibles.
-+ 🧠 **La conception technique :** J'ai imaginé et créé de toutes pièces les quiz pour en faire de véritables cas d'école métier. J'ai ensuite utilisé le logiciel Twine pour développer toute la structure interactive du jeu, gérer l'arborescence des choix et intégrer ces défis techniques à l'histoire.
++ 🛠️ **La conception technique :** J'ai imaginé et créé de toutes pièces les quiz pour en faire de véritables cas d'école métier. J'ai ensuite utilisé le logiciel Twine pour développer toute la structure interactive du jeu, gérer l'arborescence des choix et intégrer ces défis techniques à l'histoire.
 + ✍️ **La rédaction :** Enfin, pour donner vie à mon scénario et fluidifier les dialogues, je me suis aidée de l'IA (Gemini) qui m'a accompagnée sur la rédaction.
 
 ### Outils utilisés :
